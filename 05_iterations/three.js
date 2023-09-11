@@ -15,7 +15,8 @@ for (const greet of greeting){
 
 //Maps
 
-const map = new Map();   //-->Map objects are collection of key-value pair. It don't show the already submitted value again. It only stores the unique value.
+const map = new Map();   //-->Map objects are collection of key-value pair. It don't show the already submitted value again. It only stores the unique value. 
+//Map is not iteratable.
 map.set("IN","India")
 map.set("USA","United State of America")
 map.set("FR","France")
