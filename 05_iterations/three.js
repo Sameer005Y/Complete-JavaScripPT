@@ -37,5 +37,5 @@ const obj = {
 }
 
 // for(const objVal of obj){
-//     console.log(objVal);      //For-of loop can't iterate the value of objects
+//     console.log(objVal);      //For-of loop can't iterate the value of objects, but For-in loop can iterate.
 // }
